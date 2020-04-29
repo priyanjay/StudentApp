@@ -1,0 +1,4 @@
+clean verify -Dtags="studentFeature:SMOKE" serenity:aggregate
+clean verify -Dtags="studentFeature:SMOKE,studentFeature:NEGATIVE" serenity:aggregate
+clean verify serenity:aggregate
+

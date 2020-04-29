@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="com.student.junit.TaggedTest" skipped="0" tests="1" time="4.85" timestamp="2020-04-29T09:47:07.133+05:30[Asia/Calcutta]"><testcase classname="com.student.junit.TaggedTest" name="Provide a 400 status code when invalid resource is accessed"/></testsuite>
